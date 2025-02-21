@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Structural patterns/Decorator Design Patterns/Decorator Design Patterns.iml" filepath="$PROJECT_DIR$/Structural patterns/Decorator Design Patterns/Decorator Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural patterns/Facade Design Pattern/Facade Design Pattern.iml" filepath="$PROJECT_DIR$/Structural patterns/Facade Design Pattern/Facade Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational patterns/Factory Design Pattern/Factory Design Pattern.iml" filepath="$PROJECT_DIR$/Creational patterns/Factory Design Pattern/Factory Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational patterns/Singleton Design Pattern/Singleton Design Pattern.iml" filepath="$PROJECT_DIR$/Creational patterns/Singleton Design Pattern/Singleton Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural patterns/Structural patterns.iml" filepath="$PROJECT_DIR$/Structural patterns/Structural patterns.iml" />
     </modules>
   </component>
